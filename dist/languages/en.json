@@ -1,0 +1,65 @@
+{
+    "shop": "Shop",
+    "styleQuiz": "Style Quiz",
+    "aboutUs": "About Us",
+    "stories": "Stories",
+    "searchAlt": "Search",
+    "accountAlt": "Account",
+    "cartAlt": "Cart",
+    "logoAlt": "Kinn Logo",
+
+
+    "heroImageAlt": "Hero Image",
+    "heroTitle": "Elevate Your Everyday",
+    "shopNow": "Shop Now",
+
+
+    "infoBannerText": "If your happy place is at the dinner table, we totally get that. That’s why we created products to help you find slow moments in a fast world.",
+    "shopAll": "Shop All &rarr;",
+    "readStories": "Read Stories &rarr;",
+
+
+    "productCollectionTitle": "Maple Board Collection",
+    "product1Name": "Maple Board - Short",
+    "product1Price": "$98.00",
+    "product2Name": "Maple Board - Long",
+    "product2Price": "$125.00",
+    "product3Name": "Maple Board - Wide",
+    "product3Price": "$158.00",
+
+
+    "essentialTitle": "THE ESSENTIALS",
+    "essentialText": "We believe minimalism means more. More space, more time, more meaningful moments.",
+    "essentialImageAlt": "Essential Image",
+
+
+    "designStoryImageAlt": "Shelves with dishes",
+    "designStoryTitle": "Our Design Story",
+    "designStoryText": "We believe in thoughtful, intentional living. So we promise not to clutter your cabinets with one-off pieces you’ll rarely use. Our collection only includes items you’ll reach for every day. Because mindful living should be simple, not stressful.",  
+
+
+    "tableTimeTitle": "Your Table Your Time",
+    "tableTimeText": "Our modern lives keep us in constant motion. But what keeps us moving isn’t always what moves us. Our time at the table is our pause button. Meals can become moments and moments can become memories. So grab a plate, pull up a seat, and stay a while.",
+    "tableTimeImageAlt": "Beautifully set dining table",
+
+
+    "newsletterTitle": "Sign up to our newsletter",
+    "newsletterDescription": "Receive special offers and first look at new products.",
+    "newsletterButton": "Subscribe",
+
+
+    "kinnMomentsTitle": "#KinnMoments",
+
+
+    "companyName": "Kinn Home",
+    "contactUs": "Need to get in touch? Just email us at",
+    "explore": "Explore",
+    "help": "Help",
+    "faqsShipping": "FAQs + Shipping",
+    "contact": "Contact",
+    "terms": "Terms",
+    "trade": "Trade",
+    "facebookAlt": "Facebook",
+    "pinterestAlt": "Pinterest",
+    "instagramAlt": "Instagram"
+}
